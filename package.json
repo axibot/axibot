@@ -1,0 +1,24 @@
+{
+  "name": "axibot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "Cenk Alper",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "chance": "^1.0.18",
+    "cleverbot-node": "^0.3.11",
+    "colors": "^1.3.3",
+    "discord.js": "^11.4.2",
+    "g-image-search": "^1.0.2",
+    "hastebin-gen": "^1.3.1",
+    "jimp": "^0.6.0",
+    "moment": "^2.24.0",
+    "moment-duration-format": "^2.2.2",
+    "ms": "^2.1.1"
+  }
+}
